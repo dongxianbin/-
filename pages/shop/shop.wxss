@@ -1,0 +1,107 @@
+.flex-wrp{
+  margin-top: 20rpx;
+  display:flex;
+}
+
+.page-content {
+  text-align: center;
+}
+
+.image {
+  margin: 0 auto;
+  width: 400px; 
+  background-color: #eeeeee;
+}
+
+.image0 {
+  height: 530px; 
+}
+
+.text {
+  font-size: 12px;
+}
+.text2 {
+  font-size: 14px;
+  font-weight: 1;
+  color: green;
+}
+
+.image2 {
+  height: 300px; 
+}
+
+.image3 {
+  height: 533px; 
+}
+
+.image4 {
+  height: 400px; 
+}
+
+.image6 {
+  height: 604px; 
+}
+
+.image8 {
+  height: 300px; 
+}
+
+.image9 {
+  height: 320px; 
+}
+
+.image10 {
+  height: 283px; 
+}
+
+.image11 {
+  height: 265px; 
+}
+
+.image12 {
+  height: 398px; 
+}
+
+.image13 {
+  height: 266px; 
+}
+
+.image14 {
+  height: 266px; 
+}
+
+.image15 {
+  height: 266px; 
+}
+
+.image16 {
+  height: 248px; 
+}
+
+.image17 {
+  height: 599px; 
+}
+
+.image18 {
+  height: 283px; 
+}
+
+.image19 {
+  height: 271px; 
+}
+
+.image20 {
+  height: 290px; 
+}
+
+.image21 {
+  height: 239px; 
+}
+
+.image22 {
+  height: 251px; 
+}
+
+.image23 {
+  height: 223px; 
+}

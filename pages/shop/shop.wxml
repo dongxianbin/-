@@ -1,0 +1,141 @@
+<!--shop.wxml-->
+<view class='page-body'>
+
+  <view class="flex-wrp" style="flex-direction:column;">
+
+    <view class='page-content'>
+      <image class='image image0' mode="scaleToFill"       src="../image/shop.jpeg">
+      </image>
+    </view>
+
+    <text class='text text1' space='emsp'>{{text1}}</text>
+    <text class='text text2' space='emsp'>{{text2}}</text>
+    <text class='text text3' space='emsp'>{{text3}}</text>
+
+    <view class='page-content'>
+      <image class='image image2' mode="scaleToFill"       src="../image/shop2.jpeg">
+      </image>
+    </view>
+
+    <text class='text text4' space='emsp'>{{text4}}</text>
+
+    <view class='page-content'>
+      <image class='image image3' mode="scaleToFill"       src="../image/shop3.jpeg">
+      </image>
+      <image class='image4' mode="scaleToFill"       src="../image/shop4.jpeg">
+      </image>
+    </view>
+
+    <text class='text text5' space='emsp'>{{text5}}</text>
+
+    <view class='page-content'>
+      <image class='image image6' mode="scaleToFill"       src="../image/shop6.jpeg">
+      </image>
+    </view>
+
+    <text class='text text6' space='emsp'>{{text6}}</text>
+
+    <view class='page-content'>
+      <image class='image image8' mode="scaleToFill"       src="../image/shop8.jpeg">
+      </image>
+    </view>
+
+    <text class='text text7' space='emsp'>{{text7}}</text>
+
+    <view class='page-content'>
+      <image class='image image9' mode="scaleToFill"       src="../image/shop9.jpeg">
+      </image>
+    </view>
+
+    <text class='text text8' space='emsp'>{{text8}}</text>
+
+     <view class='page-content'>
+      <image class='image image10' mode="scaleToFill"       src="../image/shop10.jpeg">
+      </image>
+      <image class='image image11' mode="scaleToFill"       src="../image/shop11.jpeg">
+      </image>
+      <image class='image image12' mode="scaleToFill"       src="../image/shop12.jpeg">
+      </image>
+    </view>
+
+    <text class='text text9' space='emsp'>{{text9}}</text>
+
+    <view class='page-content'>
+      <image class='image image13' mode="scaleToFill"       src="../image/shop13.jpeg">
+      </image>
+    </view>
+
+    <text class='text text10' space='emsp'>{{text10}}</text>
+
+    <view class='page-content'>
+      <image class='image image14' mode="scaleToFill"       src="../image/shop14.jpeg">
+      </image>
+    </view>
+
+    <text class='text text11' space='emsp'>{{text11}}</text>
+
+    <view class='page-content'>
+      <image class='image image15' mode="scaleToFill"       src="../image/shop15.jpeg">
+      </image>
+    </view>
+
+    <text class='text text12' space='emsp'>{{text12}}</text>
+
+    <view class='page-content'>
+      <image class='image image16' mode="scaleToFill"       src="../image/shop16.jpeg">
+      </image>
+    </view>
+
+    <text class='text text13' space='emsp'>{{text13}}</text>
+
+    <view class='page-content'>
+      <image class='image image17' mode="scaleToFill"       src="../image/shop17.jpeg">
+      </image>
+      <image class='image image18' mode="scaleToFill"       src="../image/shop18.jpeg">
+      </image>
+    </view>
+
+    <text class='text text14' space='emsp'>{{text14}}</text>
+
+    <view class='page-content'>
+      <image class='image image19' mode="scaleToFill"       src="../image/shop19.jpeg">
+      </image>
+    </view>
+
+    <text class='text text15' space='emsp'>{{text15}}</text>
+
+    <view class='page-content'>
+      <image class='image image20' mode="scaleToFill"       src="../image/shop20.jpeg">
+      </image>
+      <image class='image image21' mode="scaleToFill"       src="../image/shop21.jpeg">
+      </image>
+    </view>
+
+    <text class='text text16' space='emsp'>{{text16}}</text>
+
+    <view class='page-content'>
+      <image class='image image22' mode="scaleToFill"       src="../image/shop22.jpeg">
+      </image>
+    </view>
+
+    <text class='text text17' space='emsp'>{{text17}}</text>
+
+    <view class='page-content'>
+      <image class='image image23' mode="scaleToFill"       src="../image/shop23.jpeg">
+      </image>
+    </view>
+
+    <text class='text text18' space='emsp'>{{text18}}</text>
+
+    <view class='page-content'>
+     
+    </view>
+
+  </view>
+
+
+
+
+
+
+</view>
