@@ -1,0 +1,36 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/main/main",
+    "pages/shop/shop",
+    "pages/logs/logs"
+  ],
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "主页",
+      "iconPath": "TabBarImage/icon_component.png",
+      "selectedIconPath": "TabBarImage/icon_component_HL.png"
+    },
+    {
+      "pagePath": "pages/shop/shop",
+      "text": "商品简介",
+      "iconPath": "TabBarImage/store.png",
+      "selectedIconPath": "TabBarImage/store-selected.png"
+    },
+    {
+      "pagePath": "pages/main/main",
+      "text": "我的",
+      "iconPath": "TabBarImage/wechat.png",
+      "selectedIconPath": "TabBarImage/wechatHL.png"
+    }]
+  },
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "黄金视力眼贴-慧慧代理",
+    "navigationBarTextStyle":"black"
+  }
+}
+
+

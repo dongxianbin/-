@@ -1,0 +1,18 @@
+.flex-wrp{
+  margin-top: 20rpx;
+  display:flex;
+}
+
+.page-content {
+  text-align: center;
+}
+.adv6text {
+  width: 100%; 
+  font-size:16px
+}
+.adv6image {
+  margin: 0 auto;
+  width: 400px;
+  height: 711px; 
+  background-color: #eeeeee;
+}
