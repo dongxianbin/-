@@ -6,18 +6,22 @@
 
     <view class='page-content'>
     
-      <text class='adv6text'>慧慧代理黄金视力眼贴，专业保护您的眼睛。
+      <text class='text'>慧慧代理黄金视力眼贴，专业保护您的眼睛。
   联系方式：15236313391
   微信号：wxid_1p3j3cqiedh222</text>
     </view>
 
     <view class='page-content'>
-      <image class='adv6image' mode="scaleToFill" src="../image/me.jpeg">
+      <image class='wximage' mode="scaleToFill" src="../image/me.jpeg">
       </image>
     </view>
-
+ 
   </view>
-
+   
+  <view class='auto'>
+    <text class='text1'>技术开发：董现彬</text>
+  </view>
+   
 </view>
 
 

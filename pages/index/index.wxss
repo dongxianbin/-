@@ -17,12 +17,12 @@
 .swiper {
   margin: 0 auto;
   width: 400px;
-  height: 169px;
+  height: 300px;
 }
 
 .swiper-image {
   width: 400px;
-  height: 169px;
+  height: 300px;
 }
 
 .image {
@@ -31,7 +31,7 @@
   background-color: #eeeeee;
 }
 .image1 { 
-  height: 720px; 
+  height: 600px; 
 }
 
 .text {
@@ -39,15 +39,18 @@
 }
 
 .image2 {
-  height: 400px;
+  height: 272px;
 }
 
 .image3 {
-  height: 521px;
+  height: 554px;
 }
 
 .image4 {
-  height: 400px;
+  height: 640px;
 }
 
+.image5 {
+  height: 549px;
+}
 

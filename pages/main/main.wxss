@@ -6,13 +6,23 @@
 .page-content {
   text-align: center;
 }
-.adv6text {
+.text {
   width: 100%; 
   font-size:16px
 }
-.adv6image {
+.wximage {
   margin: 0 auto;
   width: 400px;
   height: 711px; 
   background-color: #eeeeee;
+}
+
+.auto {
+  margin-top: 20rpx;
+  margin-bottom: 20rpx;
+  margin-right: 20rpx;
+  text-align: right;
+}
+.text1 { 
+  font-size:12px
 }
