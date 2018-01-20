@@ -3,17 +3,12 @@
 <view class='page-body'>
 
 
-<view class="flex-wrp" style="flex-direction:column;">
+  <view class="flex-wrp" style="flex-direction:column;">
 
-    
-
-  <view class="flex-wrp" style="flex-direction:column;"> 
     <view class="page-content"> 
       <video class="myVideo" src="{{videourl}}" custom-cache="{{false}}" enable-danmu danmu-btn controls></video>  
     </view> 
-  </view>
-
-  <view class="flex-wrp" style="flex-direction:column;">
+  
     <view class='page-content'>
       <image class='image image1' mode="scaleToFill" src="{{advurl1}}"></image>
     </view>
@@ -21,20 +16,19 @@
     <text class='text text1' space='emsp'>{{advtext1}}</text>
 
     <view class='page-content'>
-      <swiper class='swiper' indicator-dots="{{indicatorDots}}"
-  autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}" circular="{{circular}}">
+      <swiper class='swiper' indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}" circular="{{circular}}">
         <block wx:for="{{imgUrls}}">
           <swiper-item>
-             <image class='swiper-image' src="{{item}}"></image>
+            <image class='swiper-image' src="{{item}}"></image>
           </swiper-item>
         </block>
       </swiper>
     </view>
-  </view>
+  
 
     <text class='text text1' space='emsp'>{{advtext2}}</text>
 
-    <view class="page-content"> 
+    <view class='page-content'>
       <image class='image image2' mode="scaleToFill" src="../image/adv2.jpeg">
       </image>
     </view>
@@ -62,6 +56,6 @@
 
     <text class='text text1' space='emsp'>{{advtext6}}</text> 
 
-   
   </view>
+
 </view>
