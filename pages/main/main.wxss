@@ -12,8 +12,8 @@
 }
 .wximage {
   margin: 0 auto;
-  width: 400rpx;
-  height: 711rpx; 
+  width: 700rpx;
+  height: 1244rpx; 
   background-color: #eeeeee;
 }
 
