@@ -9,69 +9,69 @@
 
 .image {
   margin: 0 auto;
-  width: 400px; 
+  width: 700rpx; 
   background-color: #eeeeee;
 }
 
 .image0 {
-  height: 530px; 
+  height: 928rpx; 
 }
 
 .text {
-  font-size: 12px;
+  font-size: 18rpx;
 }
 .text2 {
-  font-size: 14px;
-  font-weight: 1;
+  font-size: 20rpx;
+  font-weight: 15rpx;
   color: green;
 }
 
 .image2 {
-  height: 300px; 
+  height: 525rpx; 
 }
 
 .image3 {
-  height: 533px; 
+  height: 933rpx; 
 }
 
 .image4 {
-  height: 400px; 
+  height: 700rpx; 
 }
 
 .image6 {
-  height: 604px; 
+  height: 1057rpx; 
 }
 
 .image8 {
-  height: 300px; 
+  height: 525rpx; 
 }
 
 .image9 {
-  height: 320px; 
+  height: 595rpx; 
 }
 
 .image10 {
-  height: 283px; 
+  height: 495rpx; 
 }
 
 .image11 {
-  height: 265px; 
+  height: 464rpx; 
 }
 
 .image12 {
-  height: 398px; 
+  height: 697rpx; 
 }
 
 .image13 {
-  height: 266px; 
+  height: 466rpx; 
 }
 
 .image14 {
-  height: 266px; 
+  height: 466rpx; 
 }
 
 .image15 {
-  height: 266px; 
+  height: 466rpx; 
 }
 
 .image16 {
@@ -79,29 +79,29 @@
 }
 
 .image17 {
-  height: 599px; 
+  height: 1048rpx; 
 }
 
 .image18 {
-  height: 283px; 
+  height: 495rpx; 
 }
 
 .image19 {
-  height: 271px; 
+  height: 474rpx; 
 }
 
 .image20 {
-  height: 290px; 
+  height: 508rpx; 
 }
 
 .image21 {
-  height: 239px; 
+  height: 418rpx; 
 }
 
 .image22 {
-  height: 251px; 
+  height: 439rpx; 
 }
 
 .image23 {
-  height: 223px; 
+  height: 390rpx; 
 }

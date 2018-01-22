@@ -8,12 +8,12 @@
 }
 .text {
   width: 100%; 
-  font-size:16px
+  font-size:20rpx
 }
 .wximage {
   margin: 0 auto;
-  width: 400px;
-  height: 711px; 
+  width: 400rpx;
+  height: 711rpx; 
   background-color: #eeeeee;
 }
 
@@ -24,5 +24,5 @@
   text-align: right;
 }
 .text1 { 
-  font-size:12px
+  font-size:18rpx
 }

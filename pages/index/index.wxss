@@ -16,41 +16,41 @@
 
 .swiper {
   margin: 0 auto;
-  width: 400px;
-  height: 300px;
+  width: 700rpx;
+  height: 525rpx;
 }
 
 .swiper-image {
-  width: 400px;
-  height: 300px;
+  width: 700rpx;
+  height: 525rpx;
 }
 
 .image {
   margin: 0 auto;
-  width: 400px; 
+  width: 700rpx; 
   background-color: #eeeeee;
 }
 .image1 { 
-  height: 600px; 
+  height: 1050rpx; 
 }
 
 .text {
-  font-size: 12px;
+  font-size: 18rpx;
 }
 
 .image2 {
-  height: 272px;
+  height: 475rpx;
 }
 
 .image3 {
-  height: 554px;
+  height: 970rpx;
 }
 
 .image4 {
-  height: 640px;
+  height: 1120rpx;
 }
 
 .image5 {
-  height: 549px;
+  height: 960rpx;
 }
 

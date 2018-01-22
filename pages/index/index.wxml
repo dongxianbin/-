@@ -31,11 +31,6 @@
       </image>
     </view>
 
-    <view class='page-content'>
-      <image class='image image2' mode="scaleToFill" src="../image/adv2.jpeg">
-      </image>
-    </view>
-
     <text class='text text1' space='emsp'>{{advtext3}}</text>
 
     <view class='page-content'>
