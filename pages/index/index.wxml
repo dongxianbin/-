@@ -2,7 +2,6 @@
 
 <view class='page-body'>
 
-
   <view class="flex-wrp" style="flex-direction:column;"> 
 
     <view class="page-content"> 
@@ -25,42 +24,40 @@
       </swiper>
     </view>
   
+    <text class='text text1' space='emsp'>{{advtext2}}</text>
 
-  <text class='text text1' space='emsp'>{{advtext2}}</text>
-
-
-  <view class="page-content"> 
-    <image class='image image2' mode="scaleToFill" src="../image/adv2.jpeg">
-    </image>
-  </view>
+    <view class="page-content"> 
+      <image class='image image2' mode="scaleToFill" src="../image/adv2.jpeg">
+      </image>
+    </view>
 
     <view class='page-content'>
       <image class='image image2' mode="scaleToFill" src="../image/adv2.jpeg">
       </image>
     </view>
 
-  <text class='text text1' space='emsp'>{{advtext3}}</text>
+    <text class='text text1' space='emsp'>{{advtext3}}</text>
 
-  <view class='page-content'>
-    <image class='image image3' mode="scaleToFill" src="../image/adv3.jpeg">
-    </image>
-  </view>
+    <view class='page-content'>
+      <image class='image image3' mode="scaleToFill" src="../image/adv3.jpeg">
+      </image>
+    </view>
 
-  <text class='text text1' space='emsp'>{{advtext4}}</text>
+    <text class='text text1' space='emsp'>{{advtext4}}</text>
 
-  <view class='page-content'>
-    <image class='image image4' mode="scaleToFill" src="../image/adv4.jpeg">
-    </image>
-  </view>
+    <view class='page-content'>
+      <image class='image image4' mode="scaleToFill" src="../image/adv4.jpeg">
+      </image>
+    </view>
 
-  <text class='text text1' space='emsp'>{{advtext5}}</text>
+    <text class='text text1' space='emsp'>{{advtext5}}</text>
 
-  <view class="page-content"> 
-    <image class='image image5' mode="scaleToFill" src="../image/adv5.jpeg">
-    </image>
-  </view>
+    <view class="page-content"> 
+      <image class='image image5' mode="scaleToFill" src="../image/adv5.jpeg">
+      </image>
+    </view>
 
-  <text class='text text1' space='emsp'>{{advtext6}}</text> 
+    <text class='text text1' space='emsp'>{{advtext6}}</text> 
 
   </view>
 
