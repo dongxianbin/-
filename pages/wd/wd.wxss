@@ -8,7 +8,7 @@
 }
 .text {
   width: 100%; 
-  font-size:20rpx
+  font-size:22rpx
 }
 .wximage {
   margin: 0 auto;
@@ -24,5 +24,5 @@
   text-align: right;
 }
 .text1 { 
-  font-size:20rpx
+  font-size:22rpx
 }

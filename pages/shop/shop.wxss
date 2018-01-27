@@ -18,10 +18,10 @@
 }
 
 .text {
-  font-size: 18rpx;
+  font-size: 22rpx;
 }
 .text2 {
-  font-size: 20rpx;
+  font-size: 24rpx;
   font-weight: 15rpx;
   color: green;
 }
