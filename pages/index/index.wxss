@@ -1,56 +1,28 @@
-/**index.wxss**/
-
-.flex-wrp{
-  margin-top: 20rpx;
-  display:flex;
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-.page-content {
-  text-align: center;
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
 }
 
-.myVideo {
-  margin: 0 auto;
-  width: 100%;
+.userinfo-nickname {
+  color: #aaa;
 }
 
-.swiper {
-  margin: 0 auto;
-  width: 700rpx;
-  height: 525rpx;
+.usermotto {
+  margin-top: 50px;
 }
 
-.swiper-image {
-  width: 700rpx;
-  height: 525rpx;
+.usermotto {
+  margin-top: 20px;
 }
 
-.image {
-  margin: 0 auto;
-  width: 700rpx; 
-  background-color: #eeeeee;
+.user-tishi {
+  font-size: 20rpx;
 }
-.image1 { 
-  height: 1050rpx; 
-}
-
-.text {
-  font-size: 18rpx;
-}
-
-.image2 {
-  height: 475rpx;
-}
-
-.image3 {
-  height: 970rpx;
-}
-
-.image4 {
-  height: 1120rpx;
-}
-
-.image5 {
-  height: 960rpx;
-}
-

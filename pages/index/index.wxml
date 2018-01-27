@@ -1,59 +1,18 @@
 <!--index.wxml-->
 
-<view class='page-body'>
-
-  <view class="flex-wrp" style="flex-direction:column;"> 
-
-    <view class="page-content"> 
-      <video class="myVideo" src="{{videourl}}" custom-cache="{{false}}" enable-danmu danmu-btn controls></video>  
-    </view> 
-  
-    <view class='page-content'>
-      <image class='image image1' mode="scaleToFill" src="{{advurl1}}"></image>
-    </view>
-
-    <text class='text text1' space='emsp'>{{advtext1}}</text>
-
-    <view class='page-content'>
-      <swiper class='swiper' indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}" circular="{{circular}}">
-        <block wx:for="{{imgUrls}}">
-          <swiper-item>
-            <image class='swiper-image' src="{{item}}"></image>
-          </swiper-item>
-        </block>
-      </swiper>
-    </view>
-  
-    <text class='text text1' space='emsp'>{{advtext2}}</text>
-
-    <view class="page-content"> 
-      <image class='image image2' mode="scaleToFill" src="../image/adv2.jpeg">
-      </image>
-    </view>
-
-    <text class='text text1' space='emsp'>{{advtext3}}</text>
-
-    <view class='page-content'>
-      <image class='image image3' mode="scaleToFill" src="../image/adv3.jpeg">
-      </image>
-    </view>
-
-    <text class='text text1' space='emsp'>{{advtext4}}</text>
-
-    <view class='page-content'>
-      <image class='image image4' mode="scaleToFill" src="../image/adv4.jpeg">
-      </image>
-    </view>
-
-    <text class='text text1' space='emsp'>{{advtext5}}</text>
-
-    <view class="page-content"> 
-      <image class='image image5' mode="scaleToFill" src="../image/adv5.jpeg">
-      </image>
-    </view>
-
-    <text class='text text1' space='emsp'>{{advtext6}}</text> 
-
+<view class="container">
+  <view class="userinfo">
+    <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
+    <block wx:else>
+      <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" background-size="cover"></image>
+      <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+    </block>
   </view>
-
+  <view class="usertishi">
+    <text class="user-tishi">{{tishi}}</text>
+  </view>
+  <view class="usermotto">
+    <text class="user-motto">{{huanying}}</text>
+  </view> 
+  
 </view>

@@ -1,3 +1,5 @@
+/**main.wxss**/
+
 .flex-wrp{
   margin-top: 20rpx;
   display:flex;
@@ -6,23 +8,49 @@
 .page-content {
   text-align: center;
 }
-.text {
-  width: 100%; 
-  font-size:20rpx
-}
-.wximage {
+
+.myVideo {
   margin: 0 auto;
   width: 700rpx;
-  height: 1244rpx; 
-  background-color: #eeeeee;
 }
 
-.auto {
-  margin-top: 20rpx;
-  margin-bottom: 20rpx;
-  margin-right: 20rpx;
-  text-align: right;
+.swiper {
+  margin: 0 auto;
+  width: 700rpx;
+  height: 525rpx;
 }
-.text1 { 
-  font-size:18rpx
+
+.swiper-image {
+  width: 700rpx;
+  height: 525rpx;
 }
+
+.image {
+  margin: 0 auto;
+  width: 700rpx; 
+  background-color: #eeeeee;
+}
+.image1 { 
+  height: 1050rpx; 
+}
+
+.text {
+  font-size: 18rpx;
+}
+
+.image2 {
+  height: 475rpx;
+}
+
+.image3 {
+  height: 970rpx;
+}
+
+.image4 {
+  height: 1120rpx;
+}
+
+.image5 {
+  height: 960rpx;
+}
+

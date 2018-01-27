@@ -1,0 +1,28 @@
+.flex-wrp{
+  margin-top: 20rpx;
+  display:flex;
+}
+
+.page-content {
+  text-align: center;
+}
+.text {
+  width: 100%; 
+  font-size:20rpx
+}
+.wximage {
+  margin: 0 auto;
+  width: 700rpx;
+  height: 1244rpx; 
+  background-color: #eeeeee;
+}
+
+.auto {
+  margin-top: 20rpx;
+  margin-bottom: 20rpx;
+  margin-right: 20rpx;
+  text-align: right;
+}
+.text1 { 
+  font-size:20rpx
+}
